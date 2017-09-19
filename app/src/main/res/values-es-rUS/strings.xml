@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio 1</string>
+    <string name="hello_message">Hola Mundo!</string>
+    <string name="ButtonText">Soy Un Botón</string>
+    <string name="login">Login</string>
+    <string name="login_hint">login name</string>
+    <string name="password">password</string>
+    <string name="password_hint">password</string>
+    <string name="RadioButton">RadioButton</string>
+    <string name="CheckBox">CheckBox</string>
+    <string name="Switch">What Does This Do?</string>Switch
+    <string name="ImageButton">password</string>
+
+</resources>

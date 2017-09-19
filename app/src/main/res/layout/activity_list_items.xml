@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:rowCount="2"
+    android:columnCount="2"
+    tools:context="com.example.jerma.lab1.ListItemsActivity">
+
+    <RadioButton
+        android:text="@string/RadioButton"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill"
+        />
+    <CheckBox
+        android:text="@string/CheckBox"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill"
+        />
+    <Switch
+        android:text="@string/Switch"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill"
+        />
+
+    <ImageButton
+        app:srcCompat="@android:drawable/ic_menu_camera"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill"
+        />
+
+
+</GridLayout>
