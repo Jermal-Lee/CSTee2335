@@ -9,16 +9,16 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
+//import android.widget.TextView;
 
 
 public class LoginActivity extends Activity {
 
     protected static final String ACTIVITY_NAME = "Login Activity";
     EditText userLogin;
-    TextView textView;
+    //TextView textView;
     Button loginButton;
-    Button button2;
+    //Button button2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -55,7 +55,7 @@ public class LoginActivity extends Activity {
         userLogin = (EditText)findViewById(R.id.userLogin);
         SharedPreferences sharedPref = getSharedPreferences("default", Context.MODE_PRIVATE);
 
-       // SharedPreferences.Editor editR = sharedPref.edit();
+        // SharedPreferences.Editor editR = sharedPref.edit();
         //editR.putString("username", userLogin.getText().toString());
 
         String name = sharedPref.getString("default", "defaultEmail@default.com");
