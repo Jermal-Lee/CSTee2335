@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio 1</string>
+    <string name="hello_message">Hola Mundo!</string>
+    <string name="ButtonText">Soy Un Botón</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="login_hint">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="RadioButton">RadioBotón</string>
+    <string name="CheckBox">Casilla de verificación</string>
+    <string name="Switch">¿Qué hace esto?</string>
+    <string name="ImageButton">Contraseña</string>
+
+    <string name="dialog_message">Do you want to finish the activity?</string>
+    <string name="dialog_title">Alert!</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+
+    <string name="switchToastOn">Switch is ON</string>
+    <string name="switchToastOff">Switch is OFF</string>
+    <string name="toastResponse">Here is my response</string>
+</resources>
