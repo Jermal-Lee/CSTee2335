@@ -13,12 +13,14 @@
     <string name="Switch">¿Qué hace esto?</string>
     <string name="ImageButton">Contraseña</string>
 
-    <string name="dialog_message">Do you want to finish the activity?</string>
-    <string name="dialog_title">Alert!</string>
-    <string name="ok">ok</string>
-    <string name="cancel">cancel</string>
+    <string name="dialog_message">¿Quieres terminar la actividad?</string>
+    <string name="dialog_title">Alerta!!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="switchToastOn">El interruptor está encendido</string>
+    <string name="switchToastOff">El interruptor está apagado</string>
+    <string name="toastResponse">Aquí está mi respuesta</string>
 
-    <string name="switchToastOn">Switch is ON</string>
-    <string name="switchToastOff">Switch is OFF</string>
-    <string name="toastResponse">Here is my response</string>
+    <string name="startChat">Comenzar chat</string>
+    <string name="Send">Enviar</string>
 </resources>
